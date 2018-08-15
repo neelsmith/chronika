@@ -1,3 +1,13 @@
-Book#Sequence#Passage#Name#Possible Oly. Year
-1#1#urn:cts:omar:stoa0179.stoa001:1.60.4#L. Iunius Brutus#67.4
-1#1#urn:cts:omar:stoa0179.stoa001:1.60.4#L. Tarquinius Conlatinus#67.4
+Book#Sequence#Passage#Name#Notes#Possible Oly. Year
+1#1#urn:cts:omar:stoa0179.stoa001:1.60.4#L. Iunius Brutus##67.4
+1#1#urn:cts:omar:stoa0179.stoa001:1.60.4#L. Tarquinius Conlatinus##67.4
+2#1#urn:cts:omar:stoa0179.stoa001:2.2.11#P. Valerius##
+2#1#urn:cts:omar:stoa0179.stoa001:2.8.4#M. Horatius Pulvillus#Suffect on death of Sp. Lucretius. Name of Lucretius missing in some sources because so brief (2.8.5)#
+2#2#urn:cts:omar:stoa0179.stoa001.omar:2.8.9#P. Valerius#iterum#
+2#2#urn:cts:omar:stoa0179.stoa001.omar:2.8.9#T. Lucretius##
+2#3#urn:cts:omar:stoa0179.stoa001.omar:2.15.1#P. Lucretius##68.3
+2#3#urn:cts:omar:stoa0179.stoa001.omar:2.15.1#P. Valerius Publicola##68.3
+2#4#urn:cts:omar:stoa0179.stoa001.omar:2.15.1#Sp. Larcius##68.2
+2#4#urn:cts:omar:stoa0179.stoa001.omar:2.15.1#T. Herminius##68.2
+2#5#urn:cts:omar:stoa0179.stoa001.omar:2.16.1#M. Valerius##68.4
+2#5#urn:cts:omar:stoa0179.stoa001.omar:2.16.1#P. Postumius##68.4
